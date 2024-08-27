@@ -1,1 +1,1 @@
-# HeroesSim
+# HeroSim
